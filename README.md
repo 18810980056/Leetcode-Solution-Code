@@ -1,2 +1,0 @@
-# Leetcode-Solution-Code
-# zhaorui
